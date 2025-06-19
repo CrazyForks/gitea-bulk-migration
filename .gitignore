@@ -4,3 +4,6 @@
 *.json
 # Added by goreleaser init:
 dist/
+
+# The software itself
+gitea-bulk-migration
